@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    background: black;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 70px;
+    color: goldenrod;
+    margin: 0.2em;
+}
+
+h2 {
+    color: yellowgreen;
+    margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+p {
+    color: yellow;
+}
+
+div {
+    background-image: url("bg.jpg");
+    background-size: 1800px 450px;
+}
+
+table,
+tr,
+td {
+    border: 1px solid green;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 30px;
+}
+
+td {
+    width: 30px;
+}
+
+input[type=number] {
+    width: 6em;
+}
