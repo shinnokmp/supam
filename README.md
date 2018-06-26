@@ -5,9 +5,9 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [HTML](github.com/shinnokmp/supam/blob/master/index.html)
-* [JS](github.com/shinnokmp/supam/designs.js)
-* [CSS](github.com/shinnokmp/supam/styles.css)
+* [HTML](index.html)
+* [JS](designs.js)
+* [CSS](styles.css)
 
 ## Instructions
 
