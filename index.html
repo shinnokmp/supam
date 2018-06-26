@@ -2,9 +2,9 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Pixel Art Maker!</title>
+    <title>Sammy's Pixel Art Maker!</title>
     <link rel="stylesheet" href="styles.css">
-    <script type="text/javascript" src="designs.js"></script>
+    <script src="designs.js"></script>
   </head>
 <body>
     <div>
@@ -12,11 +12,11 @@
 
       <h2>Choose dimensions for your grid</h2>
       <form id="sizePicker" onsubmit="makeGrid()">
-        <p>Enter a number between 1 to 50.</p>
+        <p>Enter a number between 1 to 100.</p>
         <p>Grid Height:
-        <input type="number" id="input_height" name="height" min="1" max="50" value="1" required>
+        <input type="number" id="input_height" name="height" min="1" max="100" value="1" required> <!--Setting the value of the height input to numbers and limiting the value to be from 1-100.-->
         Grid Width:
-        <input type="number" id="input_width" name="width" min="1" max="50" value="1" required>
+        <input type="number" id="input_width" name="width" min="1" max="100" value="1" required> <!--Setting the value of the width input to numbers and limiting the value to be from 1-100.-->
         <input type="submit" value="LET'S PLAY!"></p>
       </form>
       <h2>Pick A Color</h2>
