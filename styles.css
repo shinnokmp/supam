@@ -3,11 +3,17 @@ body {
     background: black;
 }
 
+/*Header*/
 h1 {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
     font-size: 70px;
     color: goldenrod;
     margin: 0.2em;
+}
+
+div {
+    background-image: url(bg.jpg);
+    background-size: 1800px 450px;
 }
 
 h2 {
@@ -18,15 +24,12 @@ h2 {
 h2:first-of-type {
     margin-top: 0.5em;
 }
+
 p {
     color: yellow;
 }
 
-div {
-    background-image: url("bg.jpg");
-    background-size: 1800px 450px;
-}
-
+/*Table*/
 table,
 tr,
 td {
