@@ -5,6 +5,9 @@
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
+* [HTML](github.com/shinnokmp/supam/index.html)
+* [JS](github.com/shinnokmp/supam/designs.js)
+* [CSS](github.com/shinnokmp/supam/styles.css)
 
 ## Instructions
 
