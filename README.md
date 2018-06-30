@@ -8,7 +8,7 @@
 * [JS](github.com/shinnokmp/supam/designs.js)
 * [CSS](github.com/shinnokmp/supam/styles.css)
 
-* [LINK TO APP ON GITHUB](https://shinnokmp.github.io/supam/)
+* [LINK TO APP ON GITHUB PAGES](https://shinnokmp.github.io/supam/)
 
 ## Instructions
 
