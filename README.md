@@ -1,13 +1,14 @@
-# supam
 # Pixel Art Maker Project
 
 ## Table of Contents
 
 * [Instructions](#instructions)
 * [Contributing](#contributing)
-* [HTML](index.html)
-* [JS](designs.js)
-* [CSS](styles.css)
+* [HTML](github.com/shinnokmp/supam/index.html)
+* [JS](github.com/shinnokmp/supam/designs.js)
+* [CSS](github.com/shinnokmp/supam/styles.css)
+
+* [LINK TO APP ON GITHUB](https://shinnokmp.github.io/supam/)
 
 ## Instructions
 
